@@ -26,7 +26,11 @@
 <li>The start.sh script must be executable </li>
 <code>  chmod +x start.sh </code><br>
 <li> Point feh (at the bottom of lua.rc) to a picture you'd want to use as your wallpaper </li>
-<code> awful.spawn.with_shell("feh --bg-scale ~/Pictures/HD/5.jpg") </code>
+<code> awful.spawn.with_shell("feh --bg-scale ~/Pictures/HD/5.jpg") </code><br>
+Restart AwesomeWM with Ctrl + Meta + r <br>
+Kill X session with Meta + Shift + q <br>
+Thats it! <br>
+Hope you enjoy! <br>
 <hr>
 <h2> keep in mind that without polybar you will have no bar at all! </h2>
 <img src="https://github.com/wolandark/awesomewithpolybar/blob/main/awesome2.png" width=100% height=100%>
