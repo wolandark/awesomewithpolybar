@@ -29,9 +29,13 @@
 <code> awful.spawn.with_shell("feh --bg-scale ~/Pictures/HD/5.jpg") </code><br>
 Restart AwesomeWM with Ctrl + Meta + r <br>
 Kill X session with Meta + Shift + q <br>
+<h4>
 Thats it! <br>
 Hope you enjoy! <br>
-<hr>
+</h4>
+Note: <br>
+Vanilla Polybar will also work. Mine has only been themed and extera modeules got commented out. If you have polybar you can just start it from the terminal. You need my start.sh script to autostart it. For more info on autostarting polybar refer to Archwiki/polybar
+  <hr>
 <h2> keep in mind that without polybar you will have no bar at all! </h2>
 <img src="https://github.com/wolandark/awesomewithpolybar/blob/main/awesome2.png" width=100% height=100%>
 
