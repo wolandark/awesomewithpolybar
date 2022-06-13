@@ -16,7 +16,7 @@
 
 <h2>Setting up and Usage</h2> 
 
-  <li>Download polybar $ rofi from the repos.</li> 
+  <li>Download polybar & rofi from the repos.</li> 
   <li>Place revelations folder & rc.lua in .config/awesome </li>
 <li>Place polybar folder (or just the files if you have the polybar folder in your .config) in .config/polybar </li>
 <li>I have set the default terminal to be kde konsole. Change the line about terminal to point to your terminal of choice.</li>
