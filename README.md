@@ -5,3 +5,5 @@ place revelations folder & rc.lua in .config/awesome <br>
 place polybar folder in .config/<br>
 
 change the bottom line of rc.lua to suit your need<br> </p>
+
+![My Image](awesome.png)
