@@ -1,4 +1,4 @@
-<h2>My awesomewm config with polybar and gaps</h2>
+<h2>My AwesomeWM Config with Polybar and Gaps</h2>
 <h3> Basic Keybindings</h3>
   
 | Keys           | Event          |
