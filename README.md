@@ -8,11 +8,11 @@
 | Meta + w       | Waterfox       |
 | Meta + d       | Rofi           |
 | Meta + Space   | Toggle layout  |
-| Meta + Arrow right/left| Tag left or right |
+| Meta + Arrow right/left| Go one tag left or right |
 | Meta + h / l       | Grow tile right or left       |
-| Meta + Shift + j       | cycle tiles      |
-| Meta + j       | change focuse between tiles           |
-| Meta +  Tab     | toggle between two last clicked or focused tiles           |
+| Meta + Shift + j       | Cycle tiles      |
+| Meta + j       | Change focuse between tiles           |
+| Meta +  Tab     | Toggle between two last clicked or focused tiles           |
 
 <h2>Setting up and Usage</h2> 
 
